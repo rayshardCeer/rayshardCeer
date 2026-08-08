@@ -1,23 +1,16 @@
-╭──────────────────────────────────────────────╮
-│        Hi, I'm [Rayshard Caesar Ramadhan] 👋 │
-│        Full Stack Developer                  │
-│                                              │
-│   🚀 Building things • 💻 Coding • 🎨 Design │
-╰──────────────────────────────────────────────╯
+# Hello World!, I'm Rayshard Caesar Ramadhan, a Software Engineering Student from Indonesia
 
-              💻 TECH STACK
 
-  HTML  CSS  JavaScript  PHP  Laravel
-  Java  C++  Flutter  MySQL  Git
+### 💻 Tech Stack:
 
-              📊 GITHUB STATS
+Lets hold it simple, there is much more but these tools are what I use daily: 
 
-       ⭐ Repositories   🔥 Streak
-       📈 Contributions  💻 Projects
+- Lang: Ts
+- Framework: Next.js
+- Styling: TailwindCSS & Shadcn
 
-              🚀 FEATURED PROJECTS
-
-  ┌─────────────┐  ┌─────────────┐
-  │ Project 01  │  │ Project 02  │
-  │ Laravel     │  │ Flutter     │
-  └─────────────┘  └─────────────┘
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
