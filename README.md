@@ -19,8 +19,7 @@
 
 - 🎓 I'm a passionate student currently studying at **SMKN 64 Jakarta**.
 - 💡 Deeply interested in **Backend Architecture**, **Web Development**, and Software Engineering.
-- 🚀 Always looking for opportunities to level up my skills and collaborate on cool projects.
-- ⚡ **Fun Fact:** I believe every complex bug is just a puzzle waiting to be solved.
+- ⚡ **just a lazy boy to dont reposito their project
 
 ---
 
@@ -56,14 +55,11 @@
 ### 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rayyyshad@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&border=00F0FF" alt="Email" />
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/rayshard_cr">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F0FF&border=00F0FF" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&border=00F0FF" alt="LinkedIn" />
   </a>
 </div>
 
