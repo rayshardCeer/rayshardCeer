@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Siswa SMKN 64 | Web & Software Developer Enthusiast | Jakarta, Indonesia 🇮🇩</h3>
 
 <p align="center">
-  Saya adalah seorang siswa Sekolah Menengah Kejuruan dari SMKN 64 Jakarta yang bersemangat dalam dunia teknologi dan pemrograman. Saya suka memecahkan masalah melalui kode dan terus belajar teknologi baru!
+  Saya adalah seorang siswa Sekolah Menengah Kejuruan dari SMKN 64 Jakarta yang bersemangat dalam dunia teknologi dan pemrograman. 
 </p>
 
 ---
@@ -33,11 +33,11 @@
 ### 📊 Statistik GitHub Saya
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Username-GitHub-Kamu]&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[rayshardCeer]&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Username-GitHub-Kamu]&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[rayshardCeer]&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
