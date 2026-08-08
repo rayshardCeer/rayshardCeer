@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,php,html,css,vscode,vscommunity,androidstudio,git,github&perline=8&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,java,php,html,css,vscode,ai,photoshop,androidstudio,git,github&perline=8&theme=dark" alt="My Skills" />
   </a>
 </div>
 
