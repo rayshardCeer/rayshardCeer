@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=200&section=header&text=Rayshard%20Caesar%20Ramadhan&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Student%20|%20Developer&descSize=20" alt="Header Animasi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=200&section=header&text=Rayshard%20Caesar%20Ramadhan&fontSize=30&fontColor=ffffff&animation=twinkling&desc=Student%10|%10Developer&descSize=10" alt="Header Animasi" />
 </div>
 
 <div align="center">
