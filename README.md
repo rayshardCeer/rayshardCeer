@@ -1,16 +1,23 @@
-## Hi there 👋
+╭──────────────────────────────────────────────╮
+│        Hi, I'm [Rayshard Caesar Ramadhan] 👋 │
+│        Full Stack Developer                  │
+│                                              │
+│   🚀 Building things • 💻 Coding • 🎨 Design │
+╰──────────────────────────────────────────────╯
 
-<!--
-**rayshardCeer/rayshardCeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+              💻 TECH STACK
 
-Here are some ideas to get you started:
+  HTML  CSS  JavaScript  PHP  Laravel
+  Java  C++  Flutter  MySQL  Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+              📊 GITHUB STATS
+
+       ⭐ Repositories   🔥 Streak
+       📈 Contributions  💻 Projects
+
+              🚀 FEATURED PROJECTS
+
+  ┌─────────────┐  ┌─────────────┐
+  │ Project 01  │  │ Project 02  │
+  │ Laravel     │  │ Flutter     │
+  └─────────────┘  └─────────────┘
